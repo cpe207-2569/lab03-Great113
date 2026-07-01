@@ -12,4 +12,4 @@
 
 - ชื่อ-สกุล:กรวิชญ์ ยาวิชัย
 - รหัสนักศึกษา:680610649
-- <strong>GITHUB PAGE URL : </strong>
+- <strong>GITHUB PAGE URL :https://cpe207-2569.github.io/lab03-Great113/ </strong>
